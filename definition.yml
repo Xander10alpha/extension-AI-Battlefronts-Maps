@@ -1,5 +1,6 @@
 name: "AI-Battlefront-Maps"
 display-name: "AI-Battlefront-Maps"
+type: plugin
 author: SHC-Community
 version: 1.0.0
 dependencies:
