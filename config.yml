@@ -1,0 +1,13 @@
+config-sparse:
+  modules:
+    maploader:
+      config:
+        extra-map-directory:
+          contents:
+            suggested-value: ucp/plugins/AI-Battlefronts-Maps-1.0.0/resources/maps
+        extra-map-extreme-directory:
+          contents:
+            suggested-value: ucp/plugins/AI-Battlefronts-Maps-1.0.0/resources/mapsExtreme
+  plugins: {}
+meta:
+  version: 1.0.0
